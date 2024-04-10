@@ -9,7 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anakin&show_icons=false&theme=dark)
 
 
-## Tecnologias que uso
+## Programming Languages 🔥
 
 <div style="display: incline_block">
 
