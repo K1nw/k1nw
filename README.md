@@ -1,7 +1,7 @@
 
-## Hello! my name is Anakin🖖
+## Kin🖖
 
-#### 20y ◉ Analysis and Systems Development ◉ Cybersecurity student 📚 
+#### 21y ◉ Analysis and Systems Development ◉ Cybersecurity student 📚 
 
 [![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=xr&logoColor=black/)](https://twitter.com/Sadnys_)
 [![ig](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anakinsz/?next=%2F)
