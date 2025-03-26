@@ -3,10 +3,6 @@
 
 #### 21y ◉ Analysis and Systems Development ◉ Cybersecurity student 📚 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1nw&show_icons=true&theme=radical)
-
-
 ## Programming Languages 🔥
 
 <div style="display: incline_block">
